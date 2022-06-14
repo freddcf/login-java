@@ -14,13 +14,13 @@
 </p>
 
 <div align="center">
-  <img src="github/sr-img.png">
+  <img src=".github/sr-img.png">
 </div>
 
 ## :white_check_mark: Resultado
 
 <div align="center">
-  <img src="github/sr-img-2.png">
+  <img src=".github/sr-img-2.png">
 </div>
 
 ## 💻 Sobre o projeto
@@ -52,15 +52,10 @@ java -jar javaproject.jar
 
 2.5 Gerando as tabelas do banco de dados
 
-- Contrua seu banco de dados MySQL em localhost (recomendado utilizar o XAMPP para rodar o server)
+- Contrua seu banco de dados e tabelas MySQL em localhost (recomendado utilizar o XAMPP para rodar o server)
+- Imagem da tabela disponível na pasta [.github](.github)
 
 Dê start na aplicação
-
-```
-npm start
-```
-
-- Em seguida acesse http://localhost:3000 no seu navegador.
 
 ## 📬 Como contribuir
 
